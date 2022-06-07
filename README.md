@@ -1,8 +1,6 @@
-[Webpage Link](https://zdunc.github.io/odin-recipes/)
-
 ![Preview](https://github.com/ZDunc/odin-recipes/blob/main/Preview.png)
 
-
+[Webpage Link](https://zdunc.github.io/odin-recipes/)
 
 ### Assignment
 
