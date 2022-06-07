@@ -1,4 +1,4 @@
-![Webpage Preview](https://zdunc.github.io/odin-recipes/)
+[Webpage Preview](https://zdunc.github.io/odin-recipes/)
 
 ### Assignment
 
